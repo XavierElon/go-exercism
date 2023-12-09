@@ -10,4 +10,6 @@ use (
 	./vehicle-purchase
 	./blackjack
 	./party-robot
+	./card-tricks
+	./need-for-speed
 )
