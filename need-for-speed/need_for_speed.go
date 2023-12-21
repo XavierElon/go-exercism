@@ -1,7 +1,5 @@
 package speed
 
-import "fmt"
-
 type Car struct {
 	battery      int
 	batteryDrain int
@@ -44,7 +42,7 @@ func Drive(car Car) Car {
 // CanFinish checks if a car is able to finish a certain track.
 func CanFinish(car Car, track Track) bool {
 	max := (car.battery / car.batteryDrain) * car.speed
-	fmt.Printf("max: %d distance: %d\n", max, track.distance)
+	// fmt.Printf("max: %d distance: %d\n", max, track.distance)
 	if max >= track.distance {
 		return true
 	}
