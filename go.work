@@ -15,4 +15,5 @@ use (
 	./animal-magic
 	./bird-watcher
 	./lasagna-master
+	./interest-is-interesting
 )
