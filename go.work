@@ -13,4 +13,6 @@ use (
 	./card-tricks
 	./need-for-speed
 	./animal-magic
+	./bird-watcher
+	./lasagna-master
 )
