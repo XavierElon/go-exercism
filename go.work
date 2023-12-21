@@ -12,4 +12,5 @@ use (
 	./party-robot
 	./card-tricks
 	./need-for-speed
+	./animal-magic
 )
