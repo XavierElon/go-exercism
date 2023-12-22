@@ -16,4 +16,6 @@ use (
 	./bird-watcher
 	./lasagna-master
 	./interest-is-interesting
+	./booking-up-for-beauty
+	./gross-store
 )
