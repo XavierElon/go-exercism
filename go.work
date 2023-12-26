@@ -19,4 +19,5 @@ use (
 	./booking-up-for-beauty
 	./gross-store
 	./chessboard
+	./election-day
 )
