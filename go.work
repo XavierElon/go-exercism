@@ -22,4 +22,5 @@ use (
 	./election-day
 	./elons-toys
 	./logs-logs-logs
+	./parsing-log-files
 )
