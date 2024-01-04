@@ -24,4 +24,6 @@ use (
 	./logs-logs-logs
 	./parsing-log-files
 	./airport-robot
+	./census
+	./meteorology
 )
