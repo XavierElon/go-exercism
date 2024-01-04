@@ -23,4 +23,5 @@ use (
 	./elons-toys
 	./logs-logs-logs
 	./parsing-log-files
+	./airport-robot
 )
