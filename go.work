@@ -27,4 +27,5 @@ use (
 	./census
 	./meteorology
 	./the-farm
+	./sorting-room
 )
